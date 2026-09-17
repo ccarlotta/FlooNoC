@@ -1,0 +1,6 @@
+site_name: practice
+
+
+nav:
+  - Home: index.md
+  - About: about.md
